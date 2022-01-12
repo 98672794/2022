@@ -8,5 +8,5 @@
  
  
  
- # [戴森球](https://zh.wikipedia.org/wiki/%E6%88%B4%E6%A3%AE%E7%90%83)
+ # [戴森泡](https://zh.wikipedia.org/wiki/%E6%88%B4%E6%A3%AE%E7%90%83)
 
